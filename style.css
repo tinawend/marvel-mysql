@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255, 232, 232);
+}
+
+.floatleft{
+    float: left;
+}
+
+.funfact{
+    /* float: right; */
+    margin: auto;
+    width: 50%;
+}
